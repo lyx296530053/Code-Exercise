@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="aaa" type="button" value="打开窗口">
+<input  id="bbb" type="button" value="关闭窗口">
+<input  id="ccc" type="text" value="刷新窗口">
+
+</body>
+<script>
+
+     var reg = /\w{2,8}/;
+     var reg1 = /^\w+$/;
+     var reg2=/^\d?$/;
+     var t = reg2.test(2);
+      alert(t);
+    window.confirm(t);
+     close(t);
+     var t;
+     var elementById = document.getElementById("qqq");
+     elementById.onclick = function () {
+        t= open();
+     }
+     var elementById1 = document.getElementById("bbb");
+     elementById1.onclick = function () {
+        t.close();
+     }
+    var timeout = setTimeout("fun()",2000);
+    setInterval("fun()",2000)
+     function fun() {
+         alert("boom");
+     }
+    clearTimeout(timeout);
+    var t= document.getElementById("ccc");
+    t.onchange=function () {
+       // window.location.reload();
+       alert("按下");
+   }
+</script>
+</html>

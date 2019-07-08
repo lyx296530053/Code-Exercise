@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Day5_31:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="CodeTest" />
+      <module name="Day4_19" />
+      <module name="Day4_20" />
+      <module name="Day4_18" />
+      <module name="Day4_23" />
+      <module name="Day4_22" />
+      <module name="Day4_21" />
+      <module name="Day4_24" />
+      <module name="Day4_26" />
+      <module name="Day4_27" />
+      <module name="Day4_25" />
+      <module name="Day4_28" />
+      <module name="Day5_10" />
+      <module name="Day5_12" />
+      <module name="Day5_13" />
+      <module name="Day5_15" />
+      <module name="Day5_17" />
+      <module name="Day5_14" />
+      <module name="Day5_18" />
+      <module name="Day5_21" />
+      <module name="Day5_20" />
+      <module name="Day5_19" />
+      <module name="Day5_22" />
+      <module name="Day5_25" />
+      <module name="Day5_23" />
+      <module name="Day5_24" />
+      <module name="Day5_25_web" />
+      <module name="Day5_26" />
+      <module name="Day5_5" />
+      <module name="Day5_6" />
+      <module name="Day5_8" />
+      <module name="Day_5_27" />
+      <module name="Day5_27_web" />
+      <module name="Day5_26_web" />
+      <module name="Day5_28" />
+      <module name="LogIn" />
+      <module name="JoinIn" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07ca02c3-c21b-4cd3-8b9e-af323f4cf26a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/maven_web/target/" />
+    <ignored path="$PROJECT_DIR$/travel/target/" />
+    <ignored path="$PROJECT_DIR$/tour/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CodeTest$TEST.ic" NAME="TEST Coverage Results" MODIFIED="1558677118369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>every.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CodeTest$Test02__1_.ic" NAME="Test02 (1) Coverage Results" MODIFIED="1558675027278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>every.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://E:/maven/apache-maven-3.5.2/conf/settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2625" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="JavaScript File" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="HTTP Request" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\lyx\IdeaProjects\CodeTest</dir>
+      <dir>D:\File\mysql-connector-java-5.1.42.jar</dir>
+      <dir>C:\Users\lyx\IdeaProjects\CodeTest\libs</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Day5_31/web/WEB-INF/敏感词汇.txt" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/web/servlet/Test.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/web/listener/ContextListener.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/web/filter/GuoLv.java" />
+        <option value="$PROJECT_DIR$/Day6_1/src/cn/lyx/BST/BstTest.java" />
+        <option value="$PROJECT_DIR$/Day6_1/src/cn/lyx/BST/Test.java" />
+        <option value="$PROJECT_DIR$/Day6_1/src/cn/lyx/BST/OrderedST.java" />
+        <option value="$PROJECT_DIR$/Day6_1/src/cn/lyx/everday/Test2.java" />
+        <option value="$PROJECT_DIR$/Day6_1/src/cn/lyx/js/99乘法表.html" />
+        <option value="$PROJECT_DIR$/Day6_1/web/99乘法表.html" />
+        <option value="$PROJECT_DIR$/Day6_2/src/cn/lyx/jdbc/Test1.java" />
+        <option value="$PROJECT_DIR$/Day6_2/src/cn/lyx/jdbc/utils.java" />
+        <option value="$PROJECT_DIR$/Day6_2/web/Test1.html" />
+        <option value="$PROJECT_DIR$/Day6_2/web/Test2.html" />
+        <option value="$PROJECT_DIR$/Day6_2/web/Test3.html" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/web/filter/YanzZheng.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/web/servlet/Servlet.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/dao/DaoUtils.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/service/UserService.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/service/userImpl/Imply.java" />
+        <option value="$PROJECT_DIR$/Day5_31/web/list.jsp" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/web/servlet/FenYe.java" />
+        <option value="$PROJECT_DIR$/Day5_31/src/cn/lyx/dao/userImpl/imply.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/hello.jsp" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/Servlet/Servlet.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/everday/Test1.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/servlet/Servlet.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/header.html" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/servlet/user.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/web/servlet/user.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/dao/utils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/web/servlet/userRegist.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/dao/DaoUtils.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/Service/SeiviceUtils.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/Service/Imply/ServiceImply.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/daomain/User.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/dao/daoImply/Imply.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/web/servlet/Yanzhengma.java" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/WEB-INF/register.jsp" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/register1.jsp" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/css/register.css" />
+        <option value="$PROJECT_DIR$/Day5_31/web/login.jsp" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/register.jsp" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/WEB-INF/test.jsp" />
+        <option value="$PROJECT_DIR$/maven_web/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_web/src/main/webapp/register.html" />
+        <option value="$PROJECT_DIR$/travel/src/main/webapp/register.html" />
+        <option value="$PROJECT_DIR$/travel/pom.xml" />
+        <option value="$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/util/MailUtils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\cangku\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="travel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="travel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/lyx/IdeaProjects/CodeTest/maven_web/src/main/webapp/register_ok.html&#10;BST&#9;PSI&#9;JAVA://cn.lyx.BinaryTree.BST&#10;proxy&#9;PSI&#9;JAVA://DynamicProxy.ProxyFactory&#10;jdbc&#9;FILE&#9;file://C:/Users/lyx/IdeaProjects/CodeTest/src/JDBC&#10;regist&#9;FILE&#9;file://C:/Users/lyx/IdeaProjects/CodeTest/Day5_26_web/web/regist.html&#10;inno&#9;PSI&#9;JAVA://Design.Util#getInnoation&#10;inn&#9;PSI&#9;JAVA://Design.Util#getInnoation&#10;innoat&#9;PSI&#9;JAVA://MyInnoation&#10;binarytr&#9;FILE&#9;file://C:/Users/lyx/IdeaProjects/CodeTest/Day4_27/src/BinaryTree&#10;link&#9;FILE&#9;file://C:/Users/lyx/IdeaProjects/CodeTest/Day5_8/src/LInkedList&#10;sort&#9;PSI&#9;JAVA://Sort&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;stack&#9;PSI&#9;JAVA://java.util.Stack&#10;A&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/ArrayList.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tour/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\maven_web\src\main\webapp" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\Day6_1\web" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\Day5_31\web" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\JoinIn\web\WEB-INF" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\LogIn\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\maven_web\src\main\java" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\maven_web" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\maven_web\src\main\webapp" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\maven_web\target" />
+      <recent name="C:\Users\lyx\IdeaProjects\CodeTest\Day6_2\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.lyx.web.servlet" />
+      <recent name="cn.lyx.dao.utils" />
+      <recent name="cn.lyx.BST" />
+      <recent name="cn.lyx.utils" />
+      <recent name="cn.lyx.JDBC" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Zhongjiezhe" />
+      <recent name="Design" />
+      <recent name="Array" />
+      <recent name="Util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProxy.Test" />
+      <module name="Day5_18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.BST.Test" />
+      <module name="Day6_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lyx.BST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.everday.Test1" />
+      <module name="maven_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lyx.everday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.jdbc.Test1" />
+      <module name="Day6_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lyx.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.everday.Test2" />
+      <module name="Day6_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lyx.everday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="Day5_31:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_CodeTest" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46359" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Day5_31:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_CodeTest" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46359" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="应用程序">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test2 (1)" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test1 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test2 (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ca02c3-c21b-4cd3-8b9e-af323f4cf26a" name="Default" comment="" />
+      <created>1554194165595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554194165595</updated>
+      <workItem from="1554194169048" duration="12151000" />
+      <workItem from="1554267441127" duration="20412000" />
+      <workItem from="1554637193480" duration="3924000" />
+      <workItem from="1554786708588" duration="25199000" />
+      <workItem from="1554859162552" duration="3872000" />
+      <workItem from="1554868415392" duration="3517000" />
+      <workItem from="1554886967289" duration="2159000" />
+      <workItem from="1554889937633" duration="10230000" />
+      <workItem from="1554945617182" duration="17791000" />
+      <workItem from="1554976405138" duration="11533000" />
+      <workItem from="1555041457575" duration="24169000" />
+      <workItem from="1555116500428" duration="11659000" />
+      <workItem from="1555137502212" duration="11572000" />
+      <workItem from="1555203245837" duration="4335000" />
+      <workItem from="1555208200704" duration="15030000" />
+      <workItem from="1555243393173" duration="2494000" />
+      <workItem from="1555301960111" duration="191000" />
+      <workItem from="1555302560023" duration="15888000" />
+      <workItem from="1555390810141" duration="189000" />
+      <workItem from="1555391065333" duration="8629000" />
+      <workItem from="1555412249016" duration="8563000" />
+      <workItem from="1555466295840" duration="16431000" />
+      <workItem from="1555491118300" duration="13721000" />
+      <workItem from="1555551669183" duration="13026000" />
+      <workItem from="1555647669915" duration="17000000" />
+      <workItem from="1555666808341" duration="7833000" />
+      <workItem from="1555726449975" duration="21760000" />
+      <workItem from="1555808187957" duration="18611000" />
+      <workItem from="1555844654072" duration="7049000" />
+      <workItem from="1555900021566" duration="14856000" />
+      <workItem from="1556016819129" duration="6873000" />
+      <workItem from="1556071778811" duration="6052000" />
+      <workItem from="1556097502177" duration="8120000" />
+      <workItem from="1556159052099" duration="20658000" />
+      <workItem from="1556254752232" duration="13109000" />
+      <workItem from="1556280732488" duration="32000" />
+      <workItem from="1556332320273" duration="13582000" />
+      <workItem from="1556364487334" duration="7077000" />
+      <workItem from="1556456566179" duration="1774000" />
+      <workItem from="1556537689624" duration="2030000" />
+      <workItem from="1556539971208" duration="5085000" />
+      <workItem from="1557025113081" duration="7881000" />
+      <workItem from="1557056536339" duration="3463000" />
+      <workItem from="1557103668733" duration="1175000" />
+      <workItem from="1557142256320" duration="5719000" />
+      <workItem from="1557202666176" duration="2330000" />
+      <workItem from="1557225315782" duration="1214000" />
+      <workItem from="1557274330090" duration="29508000" />
+      <workItem from="1557460628625" duration="18592000" />
+      <workItem from="1557624270180" duration="18783000" />
+      <workItem from="1557724954045" duration="12576000" />
+      <workItem from="1557809472356" duration="16845000" />
+      <workItem from="1557895261400" duration="18558000" />
+      <workItem from="1557991784517" duration="723000" />
+      <workItem from="1558094640179" duration="8980000" />
+      <workItem from="1558141797930" duration="20319000" />
+      <workItem from="1558227560117" duration="21631000" />
+      <workItem from="1558315755639" duration="4300000" />
+      <workItem from="1558322731457" duration="5841000" />
+      <workItem from="1558353478467" duration="5489000" />
+      <workItem from="1558414415800" duration="8226000" />
+      <workItem from="1558440165601" duration="3497000" />
+      <workItem from="1558487239476" duration="31065000" />
+      <workItem from="1558527992509" duration="3210000" />
+      <workItem from="1558585097825" duration="5547000" />
+      <workItem from="1558601542555" duration="15074000" />
+      <workItem from="1558620116971" duration="3593000" />
+      <workItem from="1558668594157" duration="23530000" />
+      <workItem from="1558703254293" duration="1051000" />
+      <workItem from="1558748883873" duration="14315000" />
+      <workItem from="1558765524616" duration="539000" />
+      <workItem from="1558766143508" duration="307000" />
+      <workItem from="1558766507544" duration="10973000" />
+      <workItem from="1558831620068" duration="12626000" />
+      <workItem from="1558849149719" duration="15001000" />
+      <workItem from="1558916185101" duration="30466000" />
+      <workItem from="1558959352390" duration="4058000" />
+      <workItem from="1559018803748" duration="28801000" />
+      <workItem from="1559092868358" duration="24948000" />
+      <workItem from="1559123820708" duration="7503000" />
+      <workItem from="1559189744912" duration="19442000" />
+      <workItem from="1559268685747" duration="29315000" />
+      <workItem from="1559307788648" duration="386000" />
+      <workItem from="1559308252693" duration="68000" />
+      <workItem from="1559308380534" duration="763000" />
+      <workItem from="1559310803505" duration="4354000" />
+      <workItem from="1559351715930" duration="23681000" />
+      <workItem from="1559382699360" duration="4604000" />
+      <workItem from="1559439110781" duration="12688000" />
+      <workItem from="1559472871869" duration="1696000" />
+      <workItem from="1559521222070" duration="619000" />
+      <workItem from="1559522117288" duration="25710000" />
+      <workItem from="1559614743769" duration="4608000" />
+      <workItem from="1559623695497" duration="2347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DengluTest_testLogin - 2019.05.28 at 19h 09m 00s.xml">
+      <configuration name="DengluTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DengluTest_testLogin - 2019.05.28 at 19h 10m 35s.xml">
+      <configuration name="DengluTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DengluTest_testLogin - 2019.05.28 at 19h 12m 23s.xml">
+      <configuration name="DengluTest.testLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test3_test1 - 2019.05.29 at 17h 17m 09s.xml">
+      <configuration name="test3.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test3_test1 - 2019.05.29 at 17h 17m 33s.xml">
+      <configuration name="test3.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test3_test1 - 2019.05.29 at 17h 18m 11s.xml">
+      <configuration name="test3.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test3_test1 - 2019.05.29 at 17h 18m 31s.xml">
+      <configuration name="test3.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test3_test1 - 2019.05.29 at 18h 37m 17s.xml">
+      <configuration name="test3.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogIn_log - 2019.05.30 at 17h 18m 21s.xml">
+      <configuration name="LogIn.log" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogIn_log - 2019.05.30 at 17h 19m 55s.xml">
+      <configuration name="LogIn.log" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1006724000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.1732224" side_tool="true" weight="0.3374613" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.34039333" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="8" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.5070093" side_tool="true" weight="0.16641453" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24963397" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41255605" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884902" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82677764" weight="0.3374613" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32884902" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49299064" visible="true" weight="0.2655068" />
+      <window_info id="Web" order="9" sideWeight="0.50812066" side_tool="true" weight="0.16641453" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.32884902" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="设计师" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.34055728" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.30307466" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32817337" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.329429" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="n" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>n</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/images/top_banner.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/error/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/error/500.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_31/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_31/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/target/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/pom.xml" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="162" column="18" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/jedis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/Service/ServiceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/Service/Imply/ServiceImply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/dao/DaoUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/dao/utils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_31/src/cn/lyx/dao/userImpl/imply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="38" column="66" lean-forward="true" selection-start-line="38" selection-start-column="66" selection-end-line="38" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/daomain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-643">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/druid.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/dao/daoImply/Imply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_31/src/cn/lyx/web/servlet/Yanzhengma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/route_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="224" column="30" selection-start-line="224" selection-start-column="30" selection-end-line="224" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5_31/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/web/servlet/Yanzhengma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/java/cn/lyx/web/servlet/userRegist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/WEB-INF/test.jsp" />
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="71" column="64" selection-start-line="71" selection-start-column="64" selection-end-line="71" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="52" column="46" lean-forward="true" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="147" column="39" selection-start-line="147" selection-start-column="39" selection-end-line="147" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/myfavorite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/register_ok.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven_web/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/favoriterank.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/route_list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/route_detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/register_ok.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/myfavorite.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="99" column="48" selection-start-line="99" selection-start-column="48" selection-end-line="99" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="138" column="40" selection-start-line="138" selection-start-column="40" selection-end-line="138" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/util/MailUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#965#1372#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/web/servlet/ActiveUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/web/servlet/CheckCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/web/servlet/FindUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/main/java/cn/itcast/travel/web/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/maven/apache-maven-3.5.2/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2625" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JoinIn:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs (4)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|maven_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/maven_web" />
+    <option value="tomcat7:run" />
+    <option value="clean" />
+    <option value="tomcat:run" />
+  </component>
+</project>
