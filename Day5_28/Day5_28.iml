@@ -7,22 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/druid-1.0.9.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/commons-logging-1.2.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/spring-tx-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/spring-core-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/spring-jdbc-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/spring-beans-5.0.0.RELEASE.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/mchange-commons-java-0.2.12.jar!/" />
-          <root url="jar://$MODULE_DIR$/../JoinIn/web/WEB-INF/lib/mysql-connector-java-5.1.37-bin.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="c3p0-0.9.5.2" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="lib4" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="lib3" level="project" />
+    <orderEntry type="library" name="lib2" level="project" />
   </component>
 </module>

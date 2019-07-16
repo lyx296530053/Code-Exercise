@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" native2AsciiForPropertiesFiles="true">
-    <file url="file://$PROJECT_DIR$/Day5_31/web/WEB-INF/敏感词汇.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Day6_2/web/WEB-INF/敏感词汇.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/maven_web" charset="UTF-8" />
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Day7_14" charset="UTF-8" />
   </component>
 </project>
