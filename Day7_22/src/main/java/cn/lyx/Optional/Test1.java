@@ -12,7 +12,7 @@ public class Test1 {
         Date date = new Date();
 
         Optional<Date> date1 = Optional.ofNullable(date);
-        date1.ifPresent(e -> e = new DateFormat());
+
         System.out.println(date1);
     }
 }
