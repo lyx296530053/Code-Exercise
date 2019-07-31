@@ -12,6 +12,7 @@
         <module name="Day7_25" />
         <module name="Day7_27" />
         <module name="Day7_29" />
+        <module name="Day7_30" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="Day7_25" target="1.8" />
       <module name="Day7_27" target="1.8" />
       <module name="Day7_29" target="1.8" />
+      <module name="Day7_30" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
