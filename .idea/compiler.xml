@@ -15,6 +15,8 @@
         <module name="Day7_30" />
         <module name="Day8_11" />
         <module name="Day8_12" />
+        <module name="Day8_13" />
+        <module name="Day8_16" />
         <module name="Day8_2" />
         <module name="Day8_5" />
         <module name="Day8_9" />
@@ -31,6 +33,8 @@
       <module name="Day7_30" target="1.8" />
       <module name="Day8_11" target="1.7" />
       <module name="Day8_12" target="1.7" />
+      <module name="Day8_13" target="1.7" />
+      <module name="Day8_16" target="1.7" />
       <module name="Day8_2" target="1.8" />
       <module name="Day8_5" target="8" />
       <module name="Day8_9" target="1.7" />
