@@ -1,5 +1,6 @@
 package cn.lyx;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -224,7 +225,36 @@ public class Test1 {
             sb.append("#_");
         }
     }
+    public ArrayList<Integer> printMatrix(int [][] matrix) {
+        ArrayList<Integer> list=new ArrayList<>();
+        if(arr.length==1&&arr[0].length==1){
+            return list.add(arr[0][0]);
+        }
 
+        int a = 0;
+        int b = 0;
+        int c = arr[0].length - 1;
+        int d = arr.length - 1;
+        while (a <c && b < d) {
+            printEdge(arr, a++, b++, c--, d--,list);
+        }
+        return list;
+    }
+
+    private static void printEdge(int[][] arr, int a, int b, int c, int d,ArrayList list) {
+        for (int i = a; i <= c; i++) {
+            list.add(arr[b][i]);
+        }
+        for (int i = b+1; i <= d; i++) {
+            list.add(arr[i][c]);
+        }
+        for (int i = c - 1; i >= a; i--) {
+            list.add(arr[d][i]);
+        }
+        for (int i = d - 1; i > b; i--) {
+            list.add(arr[i][a]);
+        }
+    }
     public static void main(String[] args) {
         TreeNode treeNode1 = new TreeNode(1);
         TreeNode treeNode2 = new TreeNode(4);
