@@ -18,7 +18,9 @@
         <module name="Day8_13" />
         <module name="Day8_16" />
         <module name="Day8_18" />
+        <module name="Day8_19" />
         <module name="Day8_2" />
+        <module name="Day8_20" />
         <module name="Day8_5" />
         <module name="Day8_9" />
       </profile>
@@ -37,7 +39,9 @@
       <module name="Day8_13" target="1.7" />
       <module name="Day8_16" target="1.7" />
       <module name="Day8_18" target="8" />
+      <module name="Day8_19" target="1.7" />
       <module name="Day8_2" target="1.8" />
+      <module name="Day8_20" target="8" />
       <module name="Day8_5" target="8" />
       <module name="Day8_9" target="1.7" />
     </bytecodeTargetLevel>
