@@ -7,18 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2599f063-9cae-42a5-9a65-9c486cabba8a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Day8_19/Day8_19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_19/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_19/src/main/java/cn/lyx/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_20/Day8_20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_20/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_23/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,20 +66,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest.java">
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_23/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+            <state relative-caret-position="3500">
+              <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyTest1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest1.java">
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="484">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3128#3129#0" expanded="true" />
+                <element signature="e#3148#3149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28325">
+              <caret line="1190" column="19" selection-start-line="1190" selection-start-column="19" selection-end-line="1190" selection-end-column="19" />
+              <folding>
+                <element signature="e#47538#47539#0" expanded="true" />
+                <element signature="e#47602#47603#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,9 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day7_30/src/main/java/cn/lyx/web/servlet/Test.java" />
-        <option value="$PROJECT_DIR$/Day7_30/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Day7_30/src/main/webapp/Test.html" />
         <option value="$PROJECT_DIR$/Day8_2/pom.xml" />
         <option value="$PROJECT_DIR$/Day8_2/src/main/java/cn/lyx/linkList/Lists.java" />
         <option value="$PROJECT_DIR$/Day8_2/src/main/java/cn/lyx/linkList/SingleLinkList.java" />
@@ -169,6 +187,9 @@
         <option value="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/test1.java" />
         <option value="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest.java" />
         <option value="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest1.java" />
+        <option value="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_23/Test1.java" />
+        <option value="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test1.java" />
+        <option value="$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test2.java" />
       </list>
     </option>
   </component>
@@ -214,9 +235,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-86" />
-    <option name="width" value="1960" />
-    <option name="height" value="1120" />
+    <option name="x" value="-90" />
+    <option name="width" value="1964" />
+    <option name="height" value="1124" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -226,6 +247,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,20 +300,17 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="lyx" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="Day8_24" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="leve&#9;PSI&#9;JAVA://cn.lyx.BinaryThree.LinkTree#levelOrderByQueue&#10;binaryt&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day7_16/src/cn/lyx/BinaryThree&#10;merge&#9;PSI&#9;JAVA://Sort.Sort#merge&#10;merges&#9;PSI&#9;JAVA://cn.lyx.Sorts.Code_05_MergeSort&#10;sort&#9;PSI&#9;JAVA://Sort.Sort4_13&#10;tree&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day7_16/src/cn/lyx/BinaryThree/Tree.java&#10;ors&#9;PSI&#9;JAVA://cn.lyx.BST.OrderedST&#10;myl&#9;PSI&#9;JAVA://LInkedList.MyLinkedList&#10;myli&#9;PSI&#9;JAVA://cn.lyx.linkList.MyLinkedList&#10;Link&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/LinkedList.java&#10;fruit&#9;PSI&#9;JAVA://Design.FruitColor&#10;apple&#9;PSI&#9;JAVA://DynamicProxy.Apple&#10;ann&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day7_12/target/generated-sources/annotations&#10;myann&#9;PSI&#9;JAVA://Reflect.MyAnnoation&#10;mya&#9;PSI&#9;JAVA://MyAnnoation&#10;file&#9;PSI&#9;JAVA://FileTest.FileCopy&#10;classloader&#9;PSI&#9;JAVA://ClassLoaderTest&#10;dat5-29&#9;null&#9;null&#10;binarytre&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day4_27/src/cn/lyx/BinaryTree&#10;binarytr&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day5_29/src/cn/lyx/BinaryTree" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day8_20/src/main/java/cn/lyx/Test1/MyTest.java&#10;leve&#9;PSI&#9;JAVA://cn.lyx.BinaryThree.LinkTree#levelOrderByQueue&#10;binaryt&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day7_16/src/cn/lyx/BinaryThree&#10;merge&#9;PSI&#9;JAVA://Sort.Sort#merge&#10;merges&#9;PSI&#9;JAVA://cn.lyx.Sorts.Code_05_MergeSort&#10;sort&#9;PSI&#9;JAVA://Sort.Sort4_13&#10;tree&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day7_16/src/cn/lyx/BinaryThree/Tree.java&#10;ors&#9;PSI&#9;JAVA://cn.lyx.BST.OrderedST&#10;myl&#9;PSI&#9;JAVA://LInkedList.MyLinkedList&#10;myli&#9;PSI&#9;JAVA://cn.lyx.linkList.MyLinkedList&#10;Link&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/LinkedList.java&#10;fruit&#9;PSI&#9;JAVA://Design.FruitColor&#10;apple&#9;PSI&#9;JAVA://DynamicProxy.Apple&#10;ann&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day7_12/target/generated-sources/annotations&#10;myann&#9;PSI&#9;JAVA://Reflect.MyAnnoation&#10;mya&#9;PSI&#9;JAVA://MyAnnoation&#10;file&#9;PSI&#9;JAVA://FileTest.FileCopy&#10;classloader&#9;PSI&#9;JAVA://ClassLoaderTest&#10;dat5-29&#9;null&#9;null&#10;binarytre&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day4_27/src/cn/lyx/BinaryTree&#10;binarytr&#9;FILE&#9;file://C:/Users/DELL/IdeaProjects/Code-Exercise/Day5_29/src/cn/lyx/BinaryTree" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -332,18 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyTest1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lyx.Main" />
-      <module name="Day8_19" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.lyx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.lyx.Test1.MyTest" />
       <module name="Day8_20" />
@@ -366,30 +376,41 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lyx.Test" />
-      <module name="Day8_18" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.Day8_24.Solution" />
+      <module name="Day8_20" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lyx.*" />
+          <option name="PATTERN" value="cn.lyx.Day8_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.Day8_23.Test1" />
+      <module name="Day8_20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lyx.Day8_23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lyx.Day8_24.Test2" />
+      <module name="Day8_20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lyx.Day8_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lyx.Test1.test1" />
-      <module name="Day8_20" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.lyx.Test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -503,19 +524,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.TomCat8" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.test1" />
       <item itemvalue="Application.MyTest" />
       <item itemvalue="Application.MyTest1" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.MyTest1" />
         <item itemvalue="Application.MyTest" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -569,6 +590,9 @@
       <workItem from="1566375546006" duration="86000" />
       <workItem from="1566459830903" duration="4688000" />
       <workItem from="1566472768822" duration="8711000" />
+      <workItem from="1566546462239" duration="13803000" />
+      <workItem from="1566626340230" duration="6199000" />
+      <workItem from="1566723459306" duration="7848000" />
     </task>
     <servers />
   </component>
@@ -605,7 +629,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301220000" />
+    <option name="totallyTimeSpent" value="329070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -618,6 +642,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="845" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
@@ -627,7 +652,7 @@
       <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Database" order="5" weight="0.32956812" />
-      <window_info id="Structure" order="1" sideWeight="0.5058548" side_tool="true" weight="0.3627907" />
+      <window_info id="Structure" order="1" sideWeight="0.509887" side_tool="true" weight="0.42192692" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24983388" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39124295" />
@@ -640,7 +665,7 @@
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.519774" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32909605" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49414518" weight="0.41594684" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.490113" weight="0.42192692" />
       <window_info id="Web" order="7" sideWeight="0.50564975" side_tool="true" weight="0.3255814" />
       <window_info id="Learn" order="6" weight="0.32956812" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -677,14 +702,14 @@
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32956812" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32768363" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49414518" visible="true" weight="0.41594684" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.490113" visible="true" weight="0.42192692" />
       <window_info id="Learn" order="6" weight="0.32956812" />
       <window_info anchor="right" id="Database" order="5" weight="0.32956812" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info id="Web" order="7" sideWeight="0.50564975" side_tool="true" weight="0.3255814" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.5058548" side_tool="true" weight="0.3627907" />
+      <window_info id="Structure" order="1" sideWeight="0.509887" side_tool="true" weight="0.42192692" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.39124295" />
     </layout-to-restore>
@@ -710,19 +735,25 @@
           <properties />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test2.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest1.java</url>
-          <line>11</line>
-          <properties class="cn.lyx.Test1.MyTest1" method="solution">
+          <url>file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test1.java</url>
+          <line>91</line>
+          <properties class="cn.lyx.Day8_24.Solution" method="PermutationHelper">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="210" />
+          <option name="timeStamp" value="221" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="211" />
+      <option name="time" value="232" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -730,30 +761,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day8_12/src/main/java/cn/lyx/Sorts/Code_11_MaxGap.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day8_12/src/main/java/cn/lyx/queue/Code_01_Array_To_Stack_Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="73" column="13" lean-forward="true" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day8_12/src/main/java/cn/lyx/queue/Code_02_GetMinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="76" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day8_12/src/main/java/cn/lyx/queue/Code_03_StackAndQueueConvert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="63" column="13" lean-forward="true" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day8_12/src/main/java/cn/lyx/queue/Code_05_RotateMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1001,13 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1020,24 +1020,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        <state relative-caret-position="458">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        <state relative-caret-position="758">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Test1/MyTest1.java">
+    <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_23/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="3500">
+          <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="90" column="2" lean-forward="true" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28325">
+          <caret line="1190" column="19" selection-start-line="1190" selection-start-column="19" selection-end-line="1190" selection-end-column="19" />
+          <folding>
+            <element signature="e#47538#47539#0" expanded="true" />
+            <element signature="e#47602#47603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day8_20/src/main/java/cn/lyx/Day8_24/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3148#3149#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
