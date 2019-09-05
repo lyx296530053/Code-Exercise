@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CodeExercise/CodeExercise.iml" filepath="$PROJECT_DIR$/../CodeExercise/CodeExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day4_18/Day4_18.iml" filepath="$PROJECT_DIR$/Day4_18/Day4_18.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day4_19/Day4_19.iml" filepath="$PROJECT_DIR$/Day4_19/Day4_19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day4_20/Day4_20.iml" filepath="$PROJECT_DIR$/Day4_20/Day4_20.iml" />
@@ -58,6 +57,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day8_20/Day8_20.iml" filepath="$PROJECT_DIR$/Day8_20/Day8_20.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day8_5/Day8_5.iml" filepath="$PROJECT_DIR$/Day8_5/Day8_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day8_9/Day8_9.iml" filepath="$PROJECT_DIR$/Day8_9/Day8_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/cn/cn.iml" filepath="$PROJECT_DIR$/src/cn/cn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day4_27/src/cn/cn1.iml" filepath="$PROJECT_DIR$/Day4_27/src/cn/cn1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day5_14/src/cn/cn10.iml" filepath="$PROJECT_DIR$/Day5_14/src/cn/cn10.iml" />
