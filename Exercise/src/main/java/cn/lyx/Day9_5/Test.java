@@ -1,17 +1,29 @@
 package cn.lyx.Day9_5;
 
+import javax.security.auth.kerberos.KerberosKey;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class Test {
-   static String  string = "a";
-    static String temp = "b";
-
     public static void main(String[] args) {
-        Test test = new Test();
-        test.swap(test.string);
-        System.out.println(test.string + temp);
-    }
+        Scanner scanner=new Scanner(System.in);
+        int w=scanner.nextInt();
+        int h=scanner.nextInt();
+        int[][] arr=new int[h][w];
+        for (int i = 0; i < h; i++) {
+            for (int j = 0; j < w; j++) {
+                arr[i][j]=scanner.nextInt();
+            }
+        }
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[0].length; j++) {
+                ArrayList<Integer> list=new ArrayList<>();
 
-    public void swap(String str) {
-        str +="c";
-        temp = str;
+            }
+        }
+    }
+    public static void sort(int[] arr){
+        Arrays.sort(arr);
     }
 }
